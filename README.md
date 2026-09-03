@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,kali,vscode,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,linux,kali,github,)](https://skillicons.dev)
 
 </div>
 
